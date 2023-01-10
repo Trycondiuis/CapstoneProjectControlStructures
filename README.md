@@ -1,4 +1,4 @@
-# CapstoneProjectControlStructures
+# Capstone Project Control Structures
 This Python program, was built for a small financial company that asked to create a system to allows users to access two different financial calculators: \
 A investment calculator. \
 A home loan repayment calculator.
